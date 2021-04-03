@@ -1,0 +1,218 @@
+@import url("https://fonts.googleapis.com/css2?family=Patua+One&family=Roboto+Slab:wght@400;700&display=swap");
+
+header .navbar {
+  background: white;
+  box-shadow: 1px 2px 10px 0px rgba(0, 0, 0, 0.3);
+  font-family: sans-serif;
+}
+
+header .nav-item .how-it-works {
+  color: black;
+}
+
+header .navbar-nav a {
+  color: #6c5ce7;
+}
+
+header .nav-item {
+  padding: 0.9em;
+}
+
+header .sign-in-sm {
+  padding-left: 2vmin;
+  padding-right: 2vmin;
+  color: white;
+  font-weight: bold;
+  background: #6c5ce7;
+  border-radius: 2vmin;
+}
+
+header .nav-item:last-child {
+  padding-right: 6.5em;
+}
+
+header .nav-item .sign-in-md {
+  padding-left: 2vmin;
+  padding-right: 2vmin;
+  color: white;
+  font-weight: bold;
+  background: #6c5ce7;
+  border-radius: 2vmin;
+}
+
+header .navbar-title {
+  color: black;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+/* Section -1 */
+@media only screen and (min-width: 768px) {
+  .section-1 {
+    padding-bottom: 20vmin;
+    background: url(../assets/Group-1.png);
+    background-size: cover;
+    background-size: 50%;
+    /* background-size: 50%; */
+    background-repeat: no-repeat;
+    background-position: right;
+    /* background-position-x: 64vmin; */
+    /* background-position-x: 20rem; */
+    /* background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-x: 2vmin;
+    background-position-y: 4vmin; */
+  }
+}
+
+.section-1 .row {
+  font-family: "Patua One", cursive;
+}
+.section-1 .col-md-12 h1 {
+  font-size: 5em;
+}
+.section-1 .col-md-12 h3 {
+  font-size: 3em;
+}
+.section-1 .row span {
+  color: #d63031;
+  text-decoration-line: underline;
+  text-decoration-color: #55efc4;
+  text-decoration-style: solid;
+  text-decoration-thickness: 0.3rem;
+}
+
+/* Section 2 */
+/* .section-2 {
+} */
+
+.section-2 .col-md-7 > h3 {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.section-2 .col-md-7 span {
+  color: #6c5ce7;
+}
+
+.section-2 .container {
+  margin-bottom: 5vmin;
+}
+
+.section-2 .container button {
+  color: #6c5ce7;
+  font-size: 2vmin;
+  font-weight: bold;
+  font-family: sans-serif;
+  border: solid rgba(0, 0, 0, 0.3);
+  border-radius: 0.5em;
+}
+
+/* Section - 3 */
+
+.section-3 .container-fluid {
+  font-family: "Patua One", cursive;
+}
+
+.section-3 .container-fluid span {
+  color: #6c5ce7;
+  text-decoration-line: underline;
+  text-decoration-color: #fdcb6e;
+  text-decoration-style: solid;
+  text-decoration-thickness: 0.3rem;
+}
+.section-3 .card {
+  box-shadow: 0.5vmin 0.5vmin rgba(0, 0, 0, 0.2);
+}
+.section-3 .card:nth-child(2) {
+  box-shadow: 1vmin 1vmin rgba(0, 0, 0, 0.3);
+}
+.section-3 .card .title {
+  font-family: "Patua One", cursive;
+  padding-bottom: 2vmin;
+}
+
+.section-3 .card .card-title {
+  font-size: 1.5vmin;
+}
+
+.section-3 .card .title span {
+  font-size: 3em;
+}
+
+.section-3 .card p {
+  font-family: sans-serif;
+  font-size: 0.9em;
+}
+.section-3 .card img {
+  margin-right: 1vmin;
+}
+.section-3 .cards .card {
+  margin: 3vmin;
+}
+
+.section-3 .cards .card:nth-child(2) {
+  background: #6c5ce7;
+}
+
+.section-3 .cards .card .card-subtitle {
+  color: #fdcb6e;
+}
+
+.section-3 .cards .card .card-button {
+  color: #6c5ce7;
+  border: solid rgba(0, 0, 0, 0.3);
+  border-radius: 1vmin;
+}
+.section-3 .cards .card-individual p {
+  color: white;
+}
+
+.section-3 .cards .card-individual h5 {
+  color: white;
+  text-shadow: 0.5vmin 0.5vmin black;
+}
+
+.section-3 .cards .card-individual .card-button {
+  font-weight: bold;
+  color: black;
+  background: white;
+  border: solid rgba(255, 255, 255, 0.3);
+  border-radius: 1vmin;
+}
+
+/* Footer */
+
+footer {
+  margin-top: 15vmin;
+}
+
+footer .footer-title {
+  font-size: 0.8rem;
+  letter-spacing: 0.3vmin;
+}
+
+footer .email {
+  color: #6c5ce7;
+  font-family: "Patua One", cursive;
+}
+
+footer input {
+  font-family: "Patua One", cursive;
+  background-color: rgba(0, 0, 0, 0.05) !important;
+}
+
+footer input .leave-your-message ::placeholder {
+  color: #6c5ce7;
+}
+
+footer .send-button {
+  background: #6c5ce7;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-shadow: 0.2vmin 0.2vmin rgba(0, 0, 0, 0.3);
+  border-radius: 0.5vmin;
+}
