@@ -11,3 +11,6 @@ Any (But 1200x960 recommended)
 
 Size of Author's image to be used in Latest Post 
 70px x 70px
+
+
+Content from https://machinelearnings.co/
