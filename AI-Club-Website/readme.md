@@ -26,7 +26,7 @@ https://aitrends.com/
 
 
 Blogs- <br/>
-[AI Interview Questions](https://www.aitrends.com/workforce/top-ai-job-interview-questions-aim-to-connect-theory-to-practice/)
+[AI Interview Questions](https://www.aitrends.com/workforce/top-ai-job-interview-questions-aim-to-connect-theory-to-practice/)</br>
 [Autonomus Driving](https://www.aitrends.com/ai-insider/essential-rules-for-autonomous-robots-to-drive-a-conventional-car/)</br>
 [Rule Based AI](https://www.aitrends.com/software-development-2/rule-based-ai-vs-machine-learning-for-development-which-is-best/)<br/>
 [SolarWinds Hack](https://www.aitrends.com/security/solarwinds-hack-likely-assisted-by-ai-suggests-microsofts-smith/)<br/>
