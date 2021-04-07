@@ -3,7 +3,7 @@ https://kshitiz1403.github.io/Websites/AI-Club-Website/src/blog-1.html<br/>
 ---
 Reference Deisgn from-<br/>
 https://okiro-dark.fueko.net/
-
+***
 The feauted section shows-<br/>
 * 5 cards in large and extra large devices 
 * 4 cards in medium devices
