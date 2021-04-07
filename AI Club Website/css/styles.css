@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700;800;900&display=swap');
+
+:root {
+  --Nunito: "Nunito", sans-serif;
+}
+
+header{
+    background-color: #1f2833;
+}
+
+header nav button i{
+  color: white;
+}
+
+header nav ul a{
+  color: white;
+}
+
+
+
+
+body {
+    background-color: #1f2833;
+}
+
+/* Section -1 */
+
+.section-1 .row .featured{
+  font-size: 3vmin;
+  font-family: var(--Nunito);
+  text-transform: uppercase;
+}
+
+.section-1 .col-lg-1 p{
+  color: white;
+  text-transform: uppercase;
+  transform: rotate(-90deg);
+  letter-spacing: 8px;
+  font-family: var(--Nunito);
+  font-size: 1.5vmin;
+  font-weight: 900;
+
+}
+
+.section-1 .cards .card-title {
+    font-weight: bold;
+    font-family: var(--Nunito);
+}
+
+.section-1 .cards .card img {
+  padding: 10%;
+}
+
+.section-1 .cards .card {
+  border: none;
+  border-radius: 10%;
+}
+
+.section-1 .container .row .cards .card-1 {
+  background-color: #d7f8ff;
+}
+
+.section-1 .container .row .cards .card-2 {
+  background-color: #fce6f0;
+}
+
+.section-1 .container .row .cards .card-3 {
+  background-color: #ffeab9;
+}
+
+.section-1 .container .row .cards .card-4 {
+  background-color: #d2f8f0;
+}
+
+.section-1 .container .row .cards .card-5 {
+  background-color: #fddfd8;
+}
+
+/* Section - 2 */
+/* .section-2{
+  
+} */
+
+.section-2 .latest-posts{
+  font-size: 3vmin;
+  font-family: var(--Nunito);
+  text-transform: uppercase;
+}
+
+.section-2 .col-lg-1 p{
+  color: white;
+  text-transform: uppercase;
+  transform: rotate(-90deg);
+  letter-spacing: 8px;
+  font-family: var(--Nunito);
+  font-size: 1.5vmin;
+  font-weight: 900;
+
+}
+
+.section-2 .col-lg-5 img{
+  width: 100%;
+  border-radius: 10%;
+}
+
+.section-2 .col-lg-6 .latest-heading{
+  color: white;
+  font-family: var(--Nunito);
+  font-weight: bold;
+}
+
+.section-2 .col-lg-6 .latest-body{
+  color: white;
+  font-family: var(--Nunito);
+}
+
+.section-2 .col-lg-6 .author{
+font-family: var(--Nunito);
+color: white;
+}
+
+.section-2 .col-lg-6 .author-details{
+  font-family: var(--Nunito);
+color: white;
+}
+
+
+.section-2 .col-lg-6 .author-name{
+  font-weight: bold;
+}
+
+.section-2 .col-lg-6 .author-date{
+  font-size: 0.8rem;
+}
+
+
+
+.section-2 .col-lg-6 .author-image>img{
+  width: 60px;
+  border: 2px solid #1f2833;
+  border-radius: 100%;
+}
