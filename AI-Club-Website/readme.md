@@ -25,8 +25,8 @@ https://machinelearnings.co/
 https://aitrends.com/
 
 
-Blogs- 
-https://www.aitrends.com/ai-insider/essential-rules-for-autonomous-robots-to-drive-a-conventional-car/<br/>
+Blogs- <br/>
+[Autonomus Driving](https://www.aitrends.com/ai-insider/essential-rules-for-autonomous-robots-to-drive-a-conventional-car/)</br>
 https://www.aitrends.com/workforce/top-ai-job-interview-questions-aim-to-connect-theory-to-practice/<br/>
 https://www.aitrends.com/software-development-2/rule-based-ai-vs-machine-learning-for-development-which-is-best/<br/>
 https://www.aitrends.com/security/solarwinds-hack-likely-assisted-by-ai-suggests-microsofts-smith/<br/>
