@@ -9,7 +9,7 @@ https://okiro-dark.fueko.net/
 * 4 cards in medium devices
 * 2 cards in small and extra small devices
 
-**_Size of Card Images-**<br/>
+**Size of Card Images-**<br/>
 The dimensions of all card images must be the same (preferrably 1:1)
 Any size would be fine though
 
