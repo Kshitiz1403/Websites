@@ -26,8 +26,8 @@ https://aitrends.com/
 
 
 Blogs- <br/>
+[AI Interview Questions](https://www.aitrends.com/workforce/top-ai-job-interview-questions-aim-to-connect-theory-to-practice/)
 [Autonomus Driving](https://www.aitrends.com/ai-insider/essential-rules-for-autonomous-robots-to-drive-a-conventional-car/)</br>
-https://www.aitrends.com/workforce/top-ai-job-interview-questions-aim-to-connect-theory-to-practice/<br/>
-https://www.aitrends.com/software-development-2/rule-based-ai-vs-machine-learning-for-development-which-is-best/<br/>
-https://www.aitrends.com/security/solarwinds-hack-likely-assisted-by-ai-suggests-microsofts-smith/<br/>
-https://www.aitrends.com/ai-in-government/ai-applied-to-tax-systems-can-help-discover-shelters-support-equality/
+[Rule Based AI](https://www.aitrends.com/software-development-2/rule-based-ai-vs-machine-learning-for-development-which-is-best/)<br/>
+[SolarWinds Hack](https://www.aitrends.com/security/solarwinds-hack-likely-assisted-by-ai-suggests-microsofts-smith/)<br/>
+[AI in Tax Systems](https://www.aitrends.com/ai-in-government/ai-applied-to-tax-systems-can-help-discover-shelters-support-equality/)
