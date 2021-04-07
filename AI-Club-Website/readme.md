@@ -21,8 +21,8 @@ Size of Author's image to be used in Latest Post <br/>
 
 
 Content from-<br/>
-https://machinelearnings.co/
-https://aitrends.com/
+[Machine Learnings](https://machinelearnings.co/)</br>
+[AI Trends](https://aitrends.com/)</br>
 
 
 Blogs- <br/>
