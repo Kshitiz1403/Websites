@@ -1,3 +1,5 @@
+https://kshitiz1403.github.io/Websites/AI-Club-Website/src/index.html
+https://kshitiz1403.github.io/Websites/AI-Club-Website/src/blog-1.html
 Reference Deisgn from-
 https://okiro-dark.fueko.net/
 
