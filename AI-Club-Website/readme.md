@@ -11,7 +11,6 @@ https://okiro-dark.fueko.net/
 
 **Size of Card Images-**<br/>
 The dimensions of all card images must be the same (preferrably 1:1)
-Any size would be fine though
 
 **Size of Image for Latest Post-**<br/>
 Any (But 1200x960 recommended)
