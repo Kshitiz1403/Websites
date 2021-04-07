@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700;800;900&display=swap");
+
+:root {
+  --Nunito: "Nunito", sans-serif;
+}
+
+header {
+  background-color: #1f2833;
+}
+
+header nav button i {
+  color: white;
+}
+
+header nav ul a {
+  color: white;
+}
+
+body {
+  background-color: #1f2833;
+}
+
+/* Section - 1 */
+
+.section-1 .post-image img {
+  width: 100%;
+  border-radius: 10%;
+}
+
+.section-1 .col-lg-6 .post-heading {
+  color: white;
+  font-family: var(--Nunito);
+  font-weight: bold;
+}
+
+.section-1 .col-lg-6 .post-summary {
+  color: white;
+  font-family: var(--Nunito);
+}
+
+.section-1 .col-lg-6 .author-image > img {
+  width: 60px;
+  border: 2px solid #1f2833;
+  border-radius: 100%;
+}
+
+.section-1 .col-lg-6 .author-details {
+  font-family: var(--Nunito);
+  color: white;
+}
+
+.section-1 .col-lg-6 .author-name {
+  font-weight: bold;
+}
+
+.section-1 .col-lg-6 .post-date {
+  font-size: 0.8rem;
+}
+
+/* Section - 2 */
+
+.section-2 .blog-body{
+    color: white;
+    font-family: var(--Nunito);
+}
+
+.section-2 .container .supporting-images{
+    width: 100%;
+    margin-bottom: 2vmin;
+}
+
+
+
+
+/* Footer */
+
+footer{
+    color: white;
+    text-align: center;
+    font-size: 5vmin;
+}
