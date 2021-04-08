@@ -170,7 +170,7 @@ body {
   }
 }
 
-@media only screen and (min-width: 576px) and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
   .section-3 .container .cards .more-blogs-img-5 {
     max-height: 250px;
   }
