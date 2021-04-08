@@ -59,23 +59,23 @@ body {
   padding: 10%;
 }
 
-.section-1 .container .row .cards .card-1 {
+.section-1 .container-fluid .row .cards .card-1 {
   background-color: rgb(169, 209, 247);
 }
 
-.section-1 .container .row .cards .card-2 {
+.section-1 .container-fluid .row .cards .card-2 {
   background-color: rgba(255, 255, 255, 0.9);
 }
 
-.section-1 .container .row .cards .card-3 {
+.section-1 .container-fluid .row .cards .card-3 {
   background-color: #f1d185;
 }
 
-.section-1 .container .row .cards .card-4 {
+.section-1 .container-fluid .row .cards .card-4 {
   background-color: rgb(173, 226, 137);
 }
 
-.section-1 .container .row .cards .card-5 {
+.section-1 .container-fluid .row .cards .card-5 {
   background-color: rgba(152, 238, 249, 1);
 }
 
@@ -105,36 +105,36 @@ body {
   border-radius: 10%;
 }
 
-.section-2 .col-lg-6 .latest-heading {
+.section-2 .latest-post-content .latest-heading {
   color: white;
   font-family: var(--Nunito);
   font-weight: bold;
 }
 
-.section-2 .col-lg-6 .latest-body {
+.section-2 .latest-post-content .latest-body {
   color: white;
   font-family: var(--Nunito);
 }
 
-.section-2 .col-lg-6 .author {
+.section-2 .latest-post-content .author {
   font-family: var(--Nunito);
   color: white;
 }
 
-.section-2 .col-lg-6 .author-details {
+.section-2 .latest-post-content .author-details {
   font-family: var(--Nunito);
   color: white;
 }
 
-.section-2 .col-lg-6 .author-name {
+.section-2 .latest-post-content .author-name {
   font-weight: bold;
 }
 
-.section-2 .col-lg-6 .author-date {
+.section-2 .latest-post-content .author-date {
   font-size: 0.8rem;
 }
 
-.section-2 .col-lg-6 .author-image > img {
+.section-2 .latest-post-content .author-image > img {
   width: 60px;
   border: 2px solid #1f2833;
   border-radius: 100%;
