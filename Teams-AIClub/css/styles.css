@@ -1,0 +1,272 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700;800;900&display=swap");
+
+:root {
+  --Nunito: "Nunito", sans-serif;
+}
+html {
+  overflow-x: hidden;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #1f2833;
+}
+
+header {
+  overflow-x: hidden;
+  background-color: #1f2833;
+}
+
+header nav button i {
+  color: white;
+}
+
+header nav ul a {
+  color: white;
+}
+
+.section-1 {
+  overflow: hidden;
+  color: white;
+}
+
+.section-1 .heading {
+  font-family: var(--Nunito);
+  font-weight: bold;
+}
+
+/* Section - 2 */
+
+.section-2 .president-1 {
+  font-size: 3vmin;
+  font-family: var(--Nunito);
+  text-transform: uppercase;
+}
+
+.section-2 .president-2 p {
+  color: white;
+  text-transform: uppercase;
+  transform: rotate(-90deg);
+  letter-spacing: 8px;
+  font-family: var(--Nunito);
+  font-size: 1.5vmin;
+  font-weight: 900;
+}
+
+.section-2 .latest-post-image img {
+  width: 100%;
+  border-radius: 10%;
+}
+
+.section-2 .president-content .president-heading {
+  color: white;
+  font-family: var(--Nunito);
+  font-weight: bold;
+}
+
+.section-2 .president-content .president-body {
+  color: white;
+  font-family: var(--Nunito);
+}
+
+.section-2 .president-content .author {
+  font-family: var(--Nunito);
+  color: white;
+}
+
+.section-2 .president-content .author-details {
+  font-family: var(--Nunito);
+  color: white;
+}
+
+.section-2 .president-content .author-name {
+  font-weight: bold;
+}
+
+.section-2 .president-content .author-date {
+  font-size: 0.8rem;
+}
+
+.section-2 .latest-post-content .author-image > img {
+  width: 60px;
+  border: 2px solid #1f2833;
+  border-radius: 100%;
+}
+
+.section-3 .row .heads-1 {
+  font-size: 3vmin;
+  font-family: var(--Nunito);
+  text-transform: uppercase;
+}
+
+.section-3 .heads-2 p {
+  color: white;
+  text-transform: uppercase;
+  transform: rotate(-90deg);
+  letter-spacing: 8px;
+  font-family: var(--Nunito);
+  font-size: 1.5vmin;
+  font-weight: 900;
+}
+.section-3 .cards a:link{
+color: black;
+text-decoration: none;
+}
+
+
+.section-3 .cards a:visited{
+  color: black;
+  text-decoration: none;
+}
+
+.section-3 .cards .card:hover {
+  transform: scale(1.05);
+  /* zoom: 150%; */
+  overflow: hidden;
+}
+
+.section-3 .cards .card {
+  transition: all 0.2s ease-in-out;
+  border: none;
+  border-radius: 10%;
+}
+
+.section-3 .cards .card a:link {
+  color: black;
+}
+
+.section-3 .cards .card a:visited {
+  color: black;
+}
+
+.section-3 .cards .card a i{
+  font-size: 1.25rem;
+}
+.section-3 .cards .card-title {
+  font-weight: bold;
+  font-family: var(--Nunito);
+}
+
+.section-3 .cards .card .card-img-heads {
+  padding: 10%;
+  width: 100%;
+}
+
+.section-3 .container-fluid .row .cards .card-1 {
+  background-color: rgb(216, 118, 119);
+}
+
+.section-3 .container-fluid .row .cards .card-2 {
+  background-color: rgba(134, 134, 134, 0.9);
+}
+
+.section-3 .container-fluid .row .cards .card-3 {
+  background-color: rgba(163, 195, 236, 0.9);
+}
+
+.section-3 .container-fluid .row .cards .card-4 {
+  background-color: rgb(197, 191, 161);
+}
+
+.section-3 .container-fluid .row .cards .card-5 {
+  background-color: rgb(187, 132, 119);
+}
+.section-3 .container-fluid .row .cards .card-6 {
+  background-color: rgb(151, 161, 201);
+}
+
+.section-3 .container-fluid .row .cards .card-7 {
+  background-color: rgb(109, 169, 211);
+}
+
+.section-3 .container-fluid .row .cards .card-8 {
+  background-color: rgb(187, 132, 119);
+}
+
+.horizontal-rule {
+  border-top: 1px dashed white;
+}
+
+
+/* Section - 4 */
+
+
+
+.section-4 .row .technical-1 {
+  font-size: 3vmin;
+  font-family: var(--Nunito);
+  text-transform: uppercase;
+}
+
+.section-4 .technical-2 p {
+  color: white;
+  text-transform: uppercase;
+  transform: rotate(-90deg);
+  letter-spacing: 8px;
+  font-family: var(--Nunito);
+  font-size: 1.5vmin;
+  font-weight: 900;
+}
+
+.section-4 .cards .card:hover {
+  transform: scale(1.05);
+  /* zoom: 150%; */
+  overflow: hidden;
+}
+
+.section-4 .cards .card {
+  transition: all 0.2s ease-in-out;
+  border: none;
+  border-radius: 10%;
+}
+
+.section-4 .cards .card a:link {
+  color: black;
+}
+
+.section-4 .cards .card a:visited {
+  color: black;
+}
+
+.section-4 .cards .card a i{
+  font-size: 1.25rem;
+}
+.section-4 .cards .card-title {
+  font-weight: bold;
+  font-family: var(--Nunito);
+}
+
+.section-4 .cards .card .card-img-heads {
+  padding: 10%;
+}
+
+.section-4 .container-fluid .row .cards .card-1 {
+  background-color: rgb(176, 199, 197);
+}
+
+.section-4 .container-fluid .row .cards .card-2 {
+  background-color: rgba(172, 182, 190, 0.9);
+}
+
+.section-4 .container-fluid .row .cards .card-3 {
+  background-color: rgb(255, 255, 255);
+}
+
+.section-4 .container-fluid .row .cards .card-4 {
+  background-color: rgb(102, 133, 142);
+}
+
+.section-4 .container-fluid .row .cards .card-5 {
+  background-color: rgb(230, 193, 219);
+}
+.section-4 .container-fluid .row .cards .card-6 {
+  background-color: rgb(128, 126, 163);
+}
+
+.section-4 .container-fluid .row .cards .card-7 {
+  background-color: rgb(131, 128, 119);
+}
+
+.section-4 .container-fluid .row .cards .card-8 {
+  background-color: rgb(187, 185, 198);
+}
