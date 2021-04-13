@@ -108,13 +108,12 @@ header nav ul a {
   font-size: 1.5vmin;
   font-weight: 900;
 }
-.section-3 .cards a:link{
-color: black;
-text-decoration: none;
+.section-3 .cards a:link {
+  color: black;
+  text-decoration: none;
 }
 
-
-.section-3 .cards a:visited{
+.section-3 .cards a:visited {
   color: black;
   text-decoration: none;
 }
@@ -139,7 +138,7 @@ text-decoration: none;
   color: black;
 }
 
-.section-3 .cards .card a i{
+.section-3 .cards .card a i {
   font-size: 1.25rem;
 }
 .section-3 .cards .card-title {
@@ -172,7 +171,7 @@ text-decoration: none;
   background-color: rgb(187, 132, 119);
 }
 .section-3 .container-fluid .row .cards .card-6 {
-  background-color: rgb(151, 161, 201);
+  background-color: rgb(94, 97, 128);
 }
 
 .section-3 .container-fluid .row .cards .card-7 {
@@ -187,10 +186,7 @@ text-decoration: none;
   border-top: 1px dashed white;
 }
 
-
 /* Section - 4 */
-
-
 
 .section-4 .row .technical-1 {
   font-size: 3vmin;
@@ -228,7 +224,7 @@ text-decoration: none;
   color: black;
 }
 
-.section-4 .cards .card a i{
+.section-4 .cards .card a i {
   font-size: 1.25rem;
 }
 .section-4 .cards .card-title {
