@@ -12,7 +12,6 @@ body {
   background-color: #1f2833;
 }
 
-
 .side-navbar {
   height: 100%;
   width: 5.5vmin;
@@ -20,7 +19,7 @@ body {
   z-index: 1;
   top: 0;
   right: 0;
-  background-color:rgba(0,0,0, 0.2);
+  background-color: rgba(0, 0, 0, 0.2);
   overflow-x: hidden;
   text-transform: uppercase;
 }
@@ -30,7 +29,7 @@ body {
   margin-top: 35px;
   font-family: var(--Nunito);
   letter-spacing: 2px;
-margin-top: 100px;
+  margin-top: 100px;
 }
 
 .side-navbar a {
@@ -39,8 +38,8 @@ margin-top: 100px;
   margin-top: 35px;
   font-family: var(--Nunito);
   letter-spacing: 2px;
-margin-top: 100px;
-text-decoration: none;
+  margin-top: 100px;
+  text-decoration: none;
 }
 
 /* .side-navbar a:link {
@@ -49,7 +48,6 @@ text-decoration: none;
 .side-navbar a:visited {
   color: white;
 } */
-
 
 header {
   overflow-x: hidden;
@@ -183,6 +181,7 @@ header nav ul a {
 .section-3 .cards .card-title {
   font-weight: bold;
   font-family: var(--Nunito);
+  font-size: 100%;
 }
 
 .section-3 .cards .card .card-img-heads {
@@ -269,6 +268,7 @@ header nav ul a {
 .section-4 .cards .card-title {
   font-weight: bold;
   font-family: var(--Nunito);
+  font-size: 100%;
 }
 
 .section-4 .cards .card .card-img-heads {
