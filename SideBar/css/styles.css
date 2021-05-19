@@ -12,18 +12,6 @@ body {
   background-color: #1f2833;
 }
 
-header {
-  overflow-x: hidden;
-  background-color: #1f2833;
-}
-
-header nav button i {
-  color: white;
-}
-
-header nav ul a {
-  color: white;
-}
 
 .side-navbar {
   height: 100%;
@@ -61,6 +49,20 @@ text-decoration: none;
 .side-navbar a:visited {
   color: white;
 } */
+
+
+header {
+  overflow-x: hidden;
+  background-color: #1f2833;
+}
+
+header nav button i {
+  color: white;
+}
+
+header nav ul a {
+  color: white;
+}
 
 .section-1 {
   overflow: hidden;
