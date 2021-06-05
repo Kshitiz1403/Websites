@@ -268,7 +268,7 @@ header nav ul a {
 .section-4 .cards .card-title {
   font-weight: bold;
   font-family: var(--Nunito);
-  font-size: 100%;
+  font-size: 100%; 
 }
 
 .section-4 .cards .card .card-img-heads {
