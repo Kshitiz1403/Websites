@@ -29,6 +29,15 @@ header .navbar .navbar-brand {
 header .navbar button i {
   color: white;
 }
+
+header a:link{
+color: white;
+}
+
+header a:visited{
+  color: white;
+}
+
 body {
   background-color: #e5c59f;
 }
